@@ -1,3 +1,5 @@
 # This is a H1 header
 
 hello i made pretty much no changes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
