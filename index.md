@@ -8,3 +8,7 @@ hello i made pretty much no changes
 message = 'hello world'
 print(message)
 ```
+
+- [ ] eat mayonnaise
+- [ ] fly a plane
+- [x] eat ice cream
