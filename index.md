@@ -3,3 +3,8 @@
 hello i made pretty much no changes
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+message = 'hello world'
+print(message)
+```
